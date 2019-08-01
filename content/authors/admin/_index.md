@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include inverse problems, biomedical imaging and deep learning.
 
 interests:
-- Inverse Problems
-- Biomedical Imaging
+- Inverse problems
+- Calculus of Variations
 - Deep Learning
+- Intelligent Imaging in Health
 
 education:
   courses:
@@ -45,15 +46,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:c.brune@utwente.nl'  # '#contact' For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.de/citations?hl=en&user=QkD3WhsAAAAJ&view_op=list_works&sortby=pubdate
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Christoph_Brune
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ChristophBrune
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.de/citations?user=QkD3WhsAAAAJ&hl
-- icon: github
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/ChristophBrune
+  link: https://www.linkedin.com/in/christoph-brune-62a92337/
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/ChristophBrune
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv

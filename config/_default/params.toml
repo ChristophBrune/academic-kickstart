@@ -60,7 +60,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "c.brune@utwente.nl"
 phone = "+31 534893384"
-address = "Room 3010, Building 11 (Zilverling), Hallenweg 19<br>University of Twente, 7522 NH Enschede, Netherlands"
+address = "Room 3010, <a href='https://www.utwente.nl/download/campusmap.pdf'> Building 11 (Zilverling)</a>, Hallenweg 19<br>University of Twente, 7522 NH Enschede, Netherlands"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = "" #"""Monday 10:00 to 13:00<br> Wednesday 09:00 to 10:00"""

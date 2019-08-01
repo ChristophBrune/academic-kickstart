@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include inverse problems, biomedical imaging and deep learning.
 
 interests:
-- Inverse problems
+- Inverse Problems
 - Calculus of Variations
 - Deep Learning
 - Intelligent Imaging in Health
